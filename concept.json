@@ -1,0 +1,11 @@
+{
+  "slug": "fair-mint-receipt",
+  "name": "Fair Mint Receipt",
+  "kind": "token",
+  "description": "Score and disclose fixed supply, authority revocation, allocation, and launch settings.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
