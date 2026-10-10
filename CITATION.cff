@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "fair-mint-receipt"
+abstract: "Score and disclose fixed supply, authority revocation, allocation, and launch settings."
+repository-code: "https://github.com/nirholas/fair-mint-receipt"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
