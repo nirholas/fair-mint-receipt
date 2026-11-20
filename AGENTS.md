@@ -8,7 +8,7 @@ Score and disclose fixed supply, authority revocation, allocation, and launch se
 
 - Source: https://github.com/nirholas/fair-mint-receipt
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
